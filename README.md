@@ -19,7 +19,7 @@ Here are some images of different sections
 
 <h1>About section</h>
 
-![Image](https://github.com/MuferrehFatima/flowerwebsite/blob/main/images/about.png?raw=true)
+![Image alt](https://github.com/MuferrehFatima/flowerwebsite/blob/main/images/about.png?raw=true)
 
 
 
