@@ -19,6 +19,9 @@ Here are some images of different sections
 
 <h1>About section</h>
 
+![Image](https://github.com/MuferrehFatima/flowerwebsite/blob/main/images/about.png?raw=true)
+
+
 
 <h1>Product section</h>
 
