@@ -25,6 +25,8 @@ Here are some images of different sections
 
 <h1>Product section</h>
 
+![Image alt](![Image alt](https://github.com/MuferrehFatima/flowerwebsite/blob/main/images/about.png?raw=true))
+
 
 <h1>Review section</h>
 
