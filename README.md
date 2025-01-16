@@ -14,7 +14,7 @@ Here are some images of different sections
 <br>
 
 <h1>Home section</h>
-
+https://github.com/MuferrehFatima/flowerwebsite/blob/main/home.png?raw=true
 
 <h1>About section</h>
 
