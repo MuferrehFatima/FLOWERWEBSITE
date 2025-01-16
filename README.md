@@ -33,3 +33,5 @@ Here are some images of different sections
 ![image](https://github.com/MuferrehFatima/flowerwebsite/blob/main/images/review.png?raw=true)
 
 <h1>Contact section</h>
+
+![image](https://github.com/MuferrehFatima/flowerwebsite/blob/main/images/contact.png?raw=true)
