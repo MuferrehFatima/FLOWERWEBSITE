@@ -12,6 +12,7 @@ The website is easy to navigate and has a simple layout.
 <hr>
 Here are some images of different sections
 <br>
+
 <h1>Home section</h>
 <img src="images/home.png" alt=">
 
