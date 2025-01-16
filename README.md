@@ -14,16 +14,16 @@ Here are some images of different sections
 <br>
 
 <h1>Home section</h>
-<img src="images/home.png" alt=">
+https://github.com/MuferrehFatima/flowerwebsite/blob/main/images/home.png?raw=true
 
 <h1>About section</h>
-<img src="images/about.png" alt=">
+https://github.com/MuferrehFatima/flowerwebsite/blob/main/images/about.png?raw=true
 
 <h1>Product section</h>
-<img src="images/product.png" alt=">
+https://github.com/MuferrehFatima/flowerwebsite/blob/main/images/products.png?raw=true
 
 <h1>Review section</h>
-<img src="images/review.png" alt=">
+https://github.com/MuferrehFatima/flowerwebsite/blob/main/images/review.png?raw=true
 
 <h1>Contact section</h>
-<img src="images/contact.png" alt=">
+https://github.com/MuferrehFatima/flowerwebsite/blob/main/images/contact.png?raw=true
