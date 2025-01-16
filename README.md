@@ -30,5 +30,6 @@ Here are some images of different sections
 
 <h1>Review section</h>
 
+![image](https://github.com/MuferrehFatima/flowerwebsite/blob/main/images/about.png?raw=true)
 
 <h1>Contact section</h>
